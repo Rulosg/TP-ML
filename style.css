@@ -1,0 +1,69 @@
+body{
+    font-style: normal;
+    text-align: center;
+    background-color: white;
+}
+header nav{
+    background-color: yellow;
+}
+header nav a{
+    text-decoration: none;
+    font-size: 30px;
+    padding: 20px ;
+    margin: 40px;
+}
+
+main{
+    position: relative;
+}
+
+.sec{
+    width: 50%;
+    height: 50%;
+    
+}
+footer{
+    background-color: yellow;
+
+}
+.celulares  a img{
+    width: 50%;
+    height: 50%;
+}
+header nav img{
+    width: 5%;
+    height: 5%;
+
+}
+h4 img {
+    width: 5%;
+    height: 5%;
+    margin: 20px;
+}
+.celulares{
+    position: absolute;
+    bottom: -130px;
+    right: -20px;
+    width: 60%;
+    height: 80%;
+}
+
+.ofertas{
+
+    position: absolute;
+    bottom: 230px;
+    right: 250px;
+}
+
+.sonido{
+
+    position: absolute;
+    top:-40px;
+    left:850px;
+}
+
+.mujer{
+    position: absolute;
+    top:230px;
+    left:850px;
+}
